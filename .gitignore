@@ -1,0 +1,18 @@
+# Environment variables
+.env
+
+# Maven / Java
+backend/target/
+*.jar
+*.class
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+.vite/
+
+# IDE / OS
+.idea/
+*.iml
+.vscode/
+.DS_Store
